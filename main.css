@@ -132,6 +132,10 @@ nav li:hover {
 
 .subscribe-wrapper .article-title {color:#333;}
 
+.map-wrapper {
+	margin-bottom: 70px;
+}
+
 #email {
 	background: transparent; 
 	border: none;
